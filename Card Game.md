@@ -1,8 +1,9 @@
 # Basic description of this game.  
-When a company executes a project, it is often necessary to prepare several solutions to the same problem or expect to use one solution to solve multiple problems. Using different solutions to solve the same problem will have different impacts on different aspects, as will trying to solve multiple problems using the same solution. The game is designed to help project managers holistically consider the impacts of problems and solutions and select the best solution at a non-technical level.
+When a company executes a project, it is often necessary to prepare several solutions to the same problem or expect to use one solution to solve multiple problems. Using different solutions to solve the same problem will have different impacts on different aspects, as will trying to solve multiple problems using the same solution. The game is designed to improve the reflection of decision-making ability and help project managers holistically consider the impacts of problems and solutions and select the best solution at a non-technical level.
 
 # The basic design of cards.
-## Problem cards
+## Problem cards：
+You may be facing many kinds of problems, each of which will have a different negative impact on one or several aspects, with the magnitude of the impact translating into a numerical value. The following chart is an example:
 ||short-term interests|long-term interests|public opinion|employee motivation|total|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |financial shortage|-4|/|/|/|-4|
@@ -14,7 +15,8 @@ When a company executes a project, it is often necessary to prepare several solu
 |product safety|/|/|-4|/|-4| 
 |development needs|-3|-3|/|-3|-9|  
 
-## Solution cards
+## Solution cards：
+There may be many solutions you can choose for a problem, but different methods will likewise have different effects on different aspects. The following chart is an example:  
 ||short-term interests|long-term interests|public opinion|employee motivation|total|
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |luxury goods|2|4|3|4|13|
@@ -27,7 +29,8 @@ When a company executes a project, it is often necessary to prepare several solu
 |flat management|4|2|3|5|14|
 
 
-## Skill cards
+## Skill cards：
+In order to increase the fun and rivalry of the game, we have added skill cards.  
 |name|effect|
 |:--:|:--:|
 |Cross swords|Have another player give you a card|
@@ -42,7 +45,6 @@ When a company executes a project, it is often necessary to prepare several solu
 - Each player starts with a hand of 4-6 cards and draws two cards at the beginning of the turn. For each turn, you may use up to one question card on the same player, and you may either use a solution card or not answer the question card; at the end of the turn, you change your hand to the starting value.
 - solution card score add question card score, the slash part is not counted, the score as the total score, the total score is less than 0 that is eliminated, more than 15 points that is regarded as the victory and leave the game, the initial score of 8 points, for the question does not answer the total score is reduced by 3 points, and draw a card.
 - As an example, the following chart shows the score obtained for different questions corresponding to different methods.
-
 ||financial shortage|market vacancies|functional deficiency|environmental destrcution|negative news|staff Treatment|product safety|development needs| 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|  
 |luxury goods|-2|1|0|-1|0|-1|-1|1|  
@@ -53,3 +55,6 @@ When a company executes a project, it is often necessary to prepare several solu
 |employee first|-3|0|1|2|3|0|0|1|
 |greatest interests|1|1|-5|-5|-3|-1|-3|0|
 |flat management|0|1|-2|0|1|2|-1|2|
+
+# Extension.
+Depending on the project, you can design different question and solution cards and think holistically about the impact of the problem on different aspects of the project depending on the focus of the project and give the appropriate numbers that indicate the level of impact. 
