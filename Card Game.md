@@ -45,6 +45,7 @@ In order to increase the fun and rivalry of the game, we have added skill cards.
 - Each player starts with a hand of 4-6 cards and draws two cards at the beginning of the turn. For each turn, you may use up to one question card on the same player, and you may either use a solution card or not answer the question card; at the end of the turn, you change your hand to the starting value.
 - solution card score add question card score, the slash part is not counted, the score as the total score, the total score is less than 0 that is eliminated, more than 15 points that is regarded as the victory and leave the game, the initial score of 8 points, for the question does not answer the total score is reduced by 3 points, and draw a card.
 - As an example, the following chart shows the score obtained for different questions corresponding to different methods.
+  
 ||financial shortage|market vacancies|functional deficiency|environmental destrcution|negative news|staff Treatment|product safety|development needs| 
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|  
 |luxury goods|-2|1|0|-1|0|-1|-1|1|  
@@ -57,4 +58,6 @@ In order to increase the fun and rivalry of the game, we have added skill cards.
 |flat management|0|1|-2|0|1|2|-1|2|
 
 # Extension.
-Depending on the project, you can design different question and solution cards and think holistically about the impact of the problem on different aspects of the project depending on the focus of the project and give the appropriate numbers that indicate the level of impact. 
+Depending on the project, you can design different question and solution cards and think holistically about the impact of the problem on different aspects of the project depending on the focus of the project and give the appropriate numbers that indicate the level of impact. Here are some card design inspirations:  
+
+![Problem card](https://github.com/KumaLuo/COMP6250_2023_Toolkit_Tutorial4Group1/blob/main/problem%20card.jpg) ![Solution card](https://github.com/KumaLuo/COMP6250_2023_Toolkit_Tutorial4Group1/blob/main/solution%20card.jpg) ![Skill card](https://github.com/KumaLuo/COMP6250_2023_Toolkit_Tutorial4Group1/blob/main/skill%20card.jpg)
